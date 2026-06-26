@@ -8,7 +8,7 @@ A production-grade Deep Learning application that classifies images into 8 disti
 ---
 
 ## 🚀 Live Demo
-**[Click here to view the Live App on Streamlit Cloud](INSERT_YOUR_STREAMLIT_LINK_HERE](https://acomputer-vision-for-image-classification-948o6prkixb5dhx8zkjv.streamlit.app/)**
+**[Click here to view the Live App on Streamlit Cloud](https://acomputer-vision-for-image-classification-948o6prkixb5dhx8zkjv.streamlit.app/)**
 
 ---
 
